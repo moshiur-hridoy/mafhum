@@ -1,0 +1,1862 @@
+{
+  "version": 1,
+  "course": {
+    "id": "quran-foundations-125",
+    "title": "Quran Foundations",
+    "bengaliTitle": "কুরআনের ১২৫টি গুরুত্বপূর্ণ শব্দ",
+    "description": "প্রতিদিন পাঁচটি শব্দ শিখে কুরআনের ভাষা বুঝতে এগিয়ে যান।",
+    "totalWords": 125
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "day": "Day 1-5",
+      "title": "Foundations 1",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 1,
+          "arabic": "هَذَا",
+          "spelling": "Hādhā",
+          "correct_meaning": "This (এটা)",
+          "options": [
+            "That (ওটা)",
+            "These (এইসকল)",
+            "Who (কে)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 2,
+          "arabic": "هَـذِهِ",
+          "spelling": "Hādhihi",
+          "correct_meaning": "This (এটা)",
+          "options": [
+            "That (ওটা)",
+            "Those (সেগুলো)",
+            "Where (কোথায়)"
+          ],
+          "gender": "Female, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 3,
+          "arabic": "هَـؤُلآءِ",
+          "spelling": "Hā'ulā'i",
+          "correct_meaning": "These (এইসকল)",
+          "options": [
+            "That (ওটা)",
+            "This (এটা)",
+            "You (তুমি)"
+          ],
+          "gender": "Plural",
+          "source": "curated-100"
+        },
+        {
+          "id": 4,
+          "arabic": "ذَلِكَ",
+          "spelling": "Dhālika",
+          "correct_meaning": "That (যাহা, যে)",
+          "options": [
+            "This (এটা)",
+            "These (এইসকল)",
+            "How (কেমন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 5,
+          "arabic": "تِلْكَ",
+          "spelling": "Tilka",
+          "correct_meaning": "That (যাহা, যে)",
+          "options": [
+            "This (এটা)",
+            "These (এইসকল)",
+            "What (কী)"
+          ],
+          "gender": "Female, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 2,
+      "day": "Day 6-10",
+      "title": "Foundations 2",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 6,
+          "arabic": "أُولَئِكَ",
+          "spelling": "Ulā'ika",
+          "correct_meaning": "Those (যাহারা, সেগুলো)",
+          "options": [
+            "This (এটা)",
+            "Who (যে)",
+            "Which (যেটি)"
+          ],
+          "gender": "Plural",
+          "source": "curated-100"
+        },
+        {
+          "id": 7,
+          "arabic": "اَلَّذِىْ",
+          "spelling": "Alladhī",
+          "correct_meaning": "Who/That (যে)",
+          "options": [
+            "Which (যেটি)",
+            "What (কী)",
+            "When (কখন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 8,
+          "arabic": "اَلَّتِىْ",
+          "spelling": "Allatī",
+          "correct_meaning": "Who/That (যে)",
+          "options": [
+            "Why (কেন)",
+            "How (কেমন)",
+            "That (ওটা)"
+          ],
+          "gender": "Female, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 9,
+          "arabic": "اَلَّذِيْنَ",
+          "spelling": "Alladhīna",
+          "correct_meaning": "Those who (তোমরা যারা)",
+          "options": [
+            "These (এইসকল)",
+            "We (আমরা)",
+            "All (সব)"
+          ],
+          "gender": "Plural",
+          "source": "curated-100"
+        },
+        {
+          "id": 10,
+          "arabic": "تَحْتَ",
+          "spelling": "Taḥta",
+          "correct_meaning": "Under (তলদেশে, নিচে)",
+          "options": [
+            "Above (উপর)",
+            "Right (ডান)",
+            "Between (মধ্যে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 3,
+      "day": "Day 11-15",
+      "title": "Connectors 3",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 11,
+          "arabic": "فَوْقَ",
+          "spelling": "Fawqa",
+          "correct_meaning": "Above (উপর)",
+          "options": [
+            "Below (নিচে)",
+            "Beside (পাশে)",
+            "With (সাথে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 12,
+          "arabic": "قَبْلَ",
+          "spelling": "Qabla",
+          "correct_meaning": "Before (সামনে, আগে)",
+          "options": [
+            "After (পরে)",
+            "In (মধ্যে)",
+            "From (থেকে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 13,
+          "arabic": "بَﻌْﺪَ",
+          "spelling": "Baʿda",
+          "correct_meaning": "After (পরে, পরবর্তী কালে)",
+          "options": [
+            "Before (আগে)",
+            "Above (উপরে)",
+            "Near (কাছে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 14,
+          "arabic": "بَيْنَ",
+          "spelling": "Bayna",
+          "correct_meaning": "Between (মধ্যবর্তী স্থানে)",
+          "options": [
+            "Under (নিচে)",
+            "With (সাথে)",
+            "Against (বিরুদ্ধে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 15,
+          "arabic": "دُونَ",
+          "spelling": "Dūna",
+          "correct_meaning": "Besides (তুলনায়, পার্শ্বে)",
+          "options": [
+            "Before (আগে)",
+            "On (উপরে)",
+            "Within (ভিতরে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 4,
+      "day": "Day 16-20",
+      "title": "Connectors 4",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 16,
+          "arabic": "عِنْدَ",
+          "spelling": "ʿInda",
+          "correct_meaning": "Near (নিকটবর্তী, প্রায়)",
+          "options": [
+            "Far (দূরে)",
+            "On (উপরে)",
+            "Over (উপরে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 17,
+          "arabic": "يَمِيْنْ",
+          "spelling": "Yamīn",
+          "correct_meaning": "Right (ন্যায়, ঠিক, সত্য)",
+          "options": [
+            "Left (বাম)",
+            "Up (উপরে)",
+            "Down (নিচে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 18,
+          "arabic": "شِمَالْ",
+          "spelling": "Shimāl",
+          "correct_meaning": "Left (বাদিক)",
+          "options": [
+            "Right (ডান)",
+            "In (মধ্যে)",
+            "Outside (বাহিরে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 19,
+          "arabic": "ٱللَّه",
+          "spelling": "Allah",
+          "correct_meaning": "Allah (আল্লাহ)",
+          "options": [
+            "God (ঈশ্বর)",
+            "Messenger (দূত)",
+            "Believer (বিশ্বাসী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 20,
+          "arabic": "رَب",
+          "spelling": "Rabb",
+          "correct_meaning": "Lord (রব)",
+          "options": [
+            "King (বাদশাহ)",
+            "Prophet (নবী)",
+            "Angel (ফেরেশতা)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 5,
+      "day": "Day 21-25",
+      "title": "Places & Time 5",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 21,
+          "arabic": "أَرْض",
+          "spelling": "Arḍ",
+          "correct_meaning": "World/Earth (পৃথিবী)",
+          "options": [
+            "Sky (আকাশ)",
+            "Fire (আগুন)",
+            "Water (পানি)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 22,
+          "arabic": "قَوْم",
+          "spelling": "Qawm",
+          "correct_meaning": "Nation (জাতি)",
+          "options": [
+            "Family (পরিবার)",
+            "People (মানুষ)",
+            "City (শহর)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 23,
+          "arabic": "آيَة",
+          "spelling": "Āyah",
+          "correct_meaning": "Sign/Verse (চিহ্ন/আয়াত)",
+          "options": [
+            "Book (কিতাব)",
+            "Command (নির্দেশ)",
+            "Truth (সত্য)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 24,
+          "arabic": "كُل",
+          "spelling": "Kullu",
+          "correct_meaning": "Every/All (প্রত্যেক, সব)",
+          "options": [
+            "Some (কিছু)",
+            "One (এক)",
+            "None (কিছু না)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 25,
+          "arabic": "رَسُول",
+          "spelling": "Rasūl",
+          "correct_meaning": "Messenger (দূত)",
+          "options": [
+            "King (রাজা)",
+            "Prophet (নবী)",
+            "Servant (গোলাম)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 6,
+      "day": "Day 26-30",
+      "title": "Places & Time 6",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 26,
+          "arabic": "يَوْم",
+          "spelling": "Yawm",
+          "correct_meaning": "Day (দিন)",
+          "options": [
+            "Night (রাত)",
+            "Week (সপ্তাহ)",
+            "Month (মাস)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 27,
+          "arabic": "عَذَاب",
+          "spelling": "ʿAdhāb",
+          "correct_meaning": "Punishment (আজাব)",
+          "options": [
+            "Mercy (দয়া)",
+            "Forgiveness (ক্ষমা)",
+            "Blessing (আশীর্বাদ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 28,
+          "arabic": "سَمَآء",
+          "spelling": "Samā'",
+          "correct_meaning": "Sky (আকাশ)",
+          "options": [
+            "Earth (পৃথিবী)",
+            "Fire (আগুন)",
+            "Water (পানি)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 29,
+          "arabic": "شَىْء",
+          "spelling": "Shay'",
+          "correct_meaning": "Thing (জিনিস, ঘটনা)",
+          "options": [
+            "Person (ব্যক্তি)",
+            "Place (স্থান)",
+            "Time (সময়)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 30,
+          "arabic": "كِتَاب",
+          "spelling": "Kitāb",
+          "correct_meaning": "Book (কিতাব)",
+          "options": [
+            "Pen (কলম)",
+            "Letter (চিঠি)",
+            "Word (শব্দ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 7,
+      "day": "Day 31-35",
+      "title": "Belief 7",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 31,
+          "arabic": "حَق",
+          "spelling": "Ḥaqq",
+          "correct_meaning": "Truth (সত্য)",
+          "options": [
+            "Falsehood (মিথ্যা)",
+            "Justice (ন্যায়)",
+            "Mercy (দয়া)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 32,
+          "arabic": "نَاس",
+          "spelling": "Nās",
+          "correct_meaning": "People (সম্প্রদায়)",
+          "options": [
+            "Believer (বিশ্বাসী)",
+            "Prophet (নবী)",
+            "Nation (জাতি)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 33,
+          "arabic": "مِن",
+          "spelling": "Min",
+          "correct_meaning": "From (হতে, থেকে)",
+          "options": [
+            "To (প্রতি)",
+            "On (উপরে)",
+            "In (মধ্যে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 34,
+          "arabic": "فِى",
+          "spelling": "Fī",
+          "correct_meaning": "In (অভ্যন্তরে, মধ্যে)",
+          "options": [
+            "On (উপরে)",
+            "To (প্রতি)",
+            "From (থেকে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 35,
+          "arabic": "عَلَى",
+          "spelling": "ʿAlā",
+          "correct_meaning": "Upon (সন্নিকটে)",
+          "options": [
+            "Under (নিচে)",
+            "In (মধ্যে)",
+            "Near (কাছে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 8,
+      "day": "Day 36-40",
+      "title": "Belief 8",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 36,
+          "arabic": "إِلَى",
+          "spelling": "Ilā",
+          "correct_meaning": "To (কাছে, প্রতি)",
+          "options": [
+            "From (থেকে)",
+            "With (সাথে)",
+            "About (সম্পর্কে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 37,
+          "arabic": "عَن",
+          "spelling": "ʿAn",
+          "correct_meaning": "About (সম্পর্কিত)",
+          "options": [
+            "To (প্রতি)",
+            "From (থেকে)",
+            "In (মধ্যে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 38,
+          "arabic": "حَتَّی",
+          "spelling": "Ḥattā",
+          "correct_meaning": "Until (যতক্ষণ না)",
+          "options": [
+            "After (পরে)",
+            "Before (আগে)",
+            "When (কখন)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 39,
+          "arabic": "مَعَ",
+          "spelling": "Maʿa",
+          "correct_meaning": "With (একত্রে, সঙ্গে)",
+          "options": [
+            "Without (ছাড়া)",
+            "On (উপরে)",
+            "Under (নিচে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 40,
+          "arabic": "بِ",
+          "spelling": "Bi",
+          "correct_meaning": "With (সাথে)",
+          "options": [
+            "For (জন্য)",
+            "From (থেকে)",
+            "To (প্রতি)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 9,
+      "day": "Day 41-45",
+      "title": "People & Creation 9",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 41,
+          "arabic": "كَ",
+          "spelling": "Ka",
+          "correct_meaning": "Like (মত, প্রায়)",
+          "options": [
+            "As (যেমন)",
+            "For (জন্য)",
+            "By (দ্বারা)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 42,
+          "arabic": "لِ",
+          "spelling": "Li",
+          "correct_meaning": "For (জন্য)",
+          "options": [
+            "To (প্রতি)",
+            "From (থেকে)",
+            "In (মধ্যে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 43,
+          "arabic": "مَن",
+          "spelling": "Man",
+          "correct_meaning": "Who (যে)",
+          "options": [
+            "What (কী)",
+            "When (কখন)",
+            "How (কেমন)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 44,
+          "arabic": "مَا / مَاذَا",
+          "spelling": "Mā / Mādhā",
+          "correct_meaning": "What (কী, যাহা)",
+          "options": [
+            "Who (যে)",
+            "Where (কোথায়)",
+            "Why (কেন)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 45,
+          "arabic": "أَيْنَ",
+          "spelling": "Ayna",
+          "correct_meaning": "Where (যেথায়, কোথায়)",
+          "options": [
+            "When (কখন)",
+            "Why (কেন)",
+            "How (কেমন)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 10,
+      "day": "Day 46-50",
+      "title": "People & Creation 10",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 46,
+          "arabic": "مَتَى",
+          "spelling": "Matā",
+          "correct_meaning": "When (কখন, তখন)",
+          "options": [
+            "What (কী)",
+            "Where (কোথায়)",
+            "Who (কে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 47,
+          "arabic": "لِمَ / لِمَاذَا",
+          "spelling": "Lima / Limādhā",
+          "correct_meaning": "Why (কেন, কী জন্য)",
+          "options": [
+            "How (কেমন)",
+            "When (কখন)",
+            "What (কী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 48,
+          "arabic": "كَيْفَ",
+          "spelling": "Kayfa",
+          "correct_meaning": "How (কেমন, কিভাবে)",
+          "options": [
+            "Why (কেন)",
+            "What (কী)",
+            "Where (কোথায়)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 49,
+          "arabic": "هَلْ",
+          "spelling": "Hal",
+          "correct_meaning": "Are (হয় - a question particle)",
+          "options": [
+            "Is not (নয়)",
+            "Never (কখনও না)",
+            "Yes (হ্যাঁ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 50,
+          "arabic": "أَيُّ",
+          "spelling": "Ayyu",
+          "correct_meaning": "Which (যেটি, যেগুলো)",
+          "options": [
+            "Who (যে)",
+            "What (কী)",
+            "Where (কোথায়)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 11,
+      "day": "Day 51-55",
+      "title": "Questions 11",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 51,
+          "arabic": "كَمْ",
+          "spelling": "Kam",
+          "correct_meaning": "How much (কতোটুকু)",
+          "options": [
+            "How many (কত)",
+            "How long (কতক্ষণ)",
+            "How far (কতদূর)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 52,
+          "arabic": "لَا",
+          "spelling": "Lā",
+          "correct_meaning": "No (না)",
+          "options": [
+            "Yes (হ্যাঁ)",
+            "Maybe (হয়তো)",
+            "Not (নয়)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 53,
+          "arabic": "مَا",
+          "spelling": "Mā",
+          "correct_meaning": "Not (মোটেই নয়)",
+          "options": [
+            "Never (কখনও না)",
+            "No (না)",
+            "Yes (হ্যাঁ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 54,
+          "arabic": "لَمْ",
+          "spelling": "Lam",
+          "correct_meaning": "Not (নয়)",
+          "options": [
+            "Never (কখনও না)",
+            "No (না)",
+            "Yes (হ্যাঁ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 55,
+          "arabic": "لَنْ",
+          "spelling": "Lan",
+          "correct_meaning": "Never (কখনও না)",
+          "options": [
+            "Not (নয়)",
+            "No (না)",
+            "Yes (হ্যাঁ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 12,
+      "day": "Day 56-60",
+      "title": "Questions 12",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 56,
+          "arabic": "كَلَّا",
+          "spelling": "Kallā",
+          "correct_meaning": "Nay (বস্তুত)",
+          "options": [
+            "Yes (হ্যাঁ)",
+            "Maybe (হয়তো)",
+            "Never (কখনও না)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 57,
+          "arabic": "لَيْسَ",
+          "spelling": "Laysa",
+          "correct_meaning": "It is not (মতো নয়)",
+          "options": [
+            "It is (হয়)",
+            "There is (আছে)",
+            "There is not (নেই)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 58,
+          "arabic": "بَلَى",
+          "spelling": "Balā",
+          "correct_meaning": "Of course (নিশ্চয়ই)",
+          "options": [
+            "Never (কখনও না)",
+            "No (না)",
+            "Perhaps (সম্ভবত)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 59,
+          "arabic": "نَعَمْ",
+          "spelling": "Naʿam",
+          "correct_meaning": "Yes (হ্যাঁ)",
+          "options": [
+            "No (না)",
+            "Never (কখনও না)",
+            "Perhaps (সম্ভবত)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 60,
+          "arabic": "مُؤْمِن",
+          "spelling": "Mu'min",
+          "correct_meaning": "Believer (বিশ্বাসী)",
+          "options": [
+            "Disbeliever (অবিশ্বাসী)",
+            "Prophet (নবী)",
+            "Sinner (পাপী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 13,
+      "day": "Day 61-65",
+      "title": "Negation 13",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 61,
+          "arabic": "سَبِيل",
+          "spelling": "Sabīl",
+          "correct_meaning": "Way (পথ, উপায়)",
+          "options": [
+            "End (শেষ)",
+            "Beginning (শুরু)",
+            "Stop (থামা)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 62,
+          "arabic": "أَمْر",
+          "spelling": "Amr",
+          "correct_meaning": "Command (আজ্ঞা, নির্দেশ)",
+          "options": [
+            "Question (প্রশ্ন)",
+            "Request (অনুরোধ)",
+            "Wish (ইচ্ছা)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 63,
+          "arabic": "بَعْض",
+          "spelling": "Baʿḍ",
+          "correct_meaning": "Some (কেহ, কিছু)",
+          "options": [
+            "All (সব)",
+            "None (কিছু না)",
+            "Every (প্রত্যেক)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 64,
+          "arabic": "خَيْر",
+          "spelling": "Khayr",
+          "correct_meaning": "Better (উত্তম, শ্রেষ্ঠ)",
+          "options": [
+            "Worse (খারাপ)",
+            "Good (ভাল)",
+            "Bad (খারাপ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 65,
+          "arabic": "إِلَٰه",
+          "spelling": "Ilāh",
+          "correct_meaning": "Deity (ইলাহ)",
+          "options": [
+            "Human (মানুষ)",
+            "Angel (ফেরেশতা)",
+            "King (রাজা)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 14,
+      "day": "Day 66-70",
+      "title": "Negation 14",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 66,
+          "arabic": "آخِر",
+          "spelling": "Ākhir",
+          "correct_meaning": "Last (শেষ)",
+          "options": [
+            "First (প্রথম)",
+            "Middle (মধ্য)",
+            "Next (পরবর্তী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 67,
+          "arabic": "جَنَّة",
+          "spelling": "Jannah",
+          "correct_meaning": "Garden (বাগান)",
+          "options": [
+            "Hell (জাহান্নাম)",
+            "Sky (আকাশ)",
+            "Earth (পৃথিবী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 68,
+          "arabic": "نَار",
+          "spelling": "Nār",
+          "correct_meaning": "Fire (আগুন)",
+          "options": [
+            "Water (পানি)",
+            "Air (বাতাস)",
+            "Earth (পৃথিবী)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 69,
+          "arabic": "غَيْر",
+          "spelling": "Ghayr",
+          "correct_meaning": "Without (ব্যতিরেকে, ব্যতীত)",
+          "options": [
+            "With (সাথে)",
+            "Before (আগে)",
+            "After (পরে)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 70,
+          "arabic": "قَلْب",
+          "spelling": "Qalb",
+          "correct_meaning": "Heart (অন্তর)",
+          "options": [
+            "Head (মাথা)",
+            "Hand (হাত)",
+            "Body (শরীর)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 15,
+      "day": "Day 71-75",
+      "title": "Guidance 15",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 71,
+          "arabic": "عَبْد",
+          "spelling": "ʿAbd",
+          "correct_meaning": "Slave (গোলাম)",
+          "options": [
+            "Master (প্রভু)",
+            "Friend (বন্ধু)",
+            "Son (পুত্র)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 72,
+          "arabic": "أَهْل",
+          "spelling": "Ahl",
+          "correct_meaning": "Family (দল, পরিবার)",
+          "options": [
+            "Enemy (শত্রু)",
+            "Friend (বন্ধু)",
+            "Guest (অতিথি)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 73,
+          "arabic": "يَد",
+          "spelling": "Yad",
+          "correct_meaning": "Hand (আয়ত্তে, হাত)",
+          "options": [
+            "Foot (পা)",
+            "Head (মাথা)",
+            "Eye (চোখ)"
+          ],
+          "gender": "None",
+          "source": "curated-100"
+        },
+        {
+          "id": 74,
+          "arabic": "قَالَ",
+          "spelling": "Qāla",
+          "correct_meaning": "He said (বলেছেন)",
+          "options": [
+            "He did (করেছেন)",
+            "He knew (জানতেন)",
+            "He came (এসেছিলেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 75,
+          "arabic": "كَانَ",
+          "spelling": "Kāna",
+          "correct_meaning": "He was",
+          "options": [
+            "He will be",
+            "He is not",
+            "He was not"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 16,
+      "day": "Day 76-80",
+      "title": "Guidance 16",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 76,
+          "arabic": "ءَامَنَ",
+          "spelling": "Āmana",
+          "correct_meaning": "He believed (তিনি বিশ্বাস করেছিলেন)",
+          "options": [
+            "He denied (অস্বীকার)",
+            "He doubted (সন্দেহ)",
+            "He disbelieved (অবিশ্বাস)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 77,
+          "arabic": "عَلِمَ",
+          "spelling": "ʿAlima",
+          "correct_meaning": "He knew (তিনি জানতেন)",
+          "options": [
+            "He saw (দেখেছিলেন)",
+            "He said (বলেছিলেন)",
+            "He did (করেছিলেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 78,
+          "arabic": "جَعَلَ",
+          "spelling": "Jaʿala",
+          "correct_meaning": "He made (তৈরী করেছেন)",
+          "options": [
+            "He created (সৃষ্টি)",
+            "He destroyed (ধ্বংস)",
+            "He gave (দিয়েছেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 79,
+          "arabic": "كَفَرَ",
+          "spelling": "Kafara",
+          "correct_meaning": "He disbelieved (অবিশ্বাস করেছিলো)",
+          "options": [
+            "He believed (বিশ্বাস)",
+            "He knew (জানতেন)",
+            "He feared (ভয়)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 80,
+          "arabic": "جَآءَ",
+          "spelling": "Jā'a",
+          "correct_meaning": "He came",
+          "options": [
+            "He went",
+            "He said",
+            "He saw"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 17,
+      "day": "Day 81-85",
+      "title": "Actions 17",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 81,
+          "arabic": "عَمِلَ",
+          "spelling": "ʿAmila",
+          "correct_meaning": "He did (করেছিলেন)",
+          "options": [
+            "He said (বলেছিলেন)",
+            "He believed (বিশ্বাস)",
+            "He knew (জানতেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 82,
+          "arabic": "آتَى",
+          "spelling": "Ātā",
+          "correct_meaning": "He gave (তিনি দিয়েছেন/লেন)",
+          "options": [
+            "He took (নিয়েছেন)",
+            "He saw (দেখেছেন)",
+            "He came (এসেছেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 83,
+          "arabic": "رَأَى",
+          "spelling": "Ra'ā",
+          "correct_meaning": "He saw (তিনি দেখেছিলেন)",
+          "options": [
+            "He heard (শুনেছিলেন)",
+            "He knew (জানতেন)",
+            "He found (পেয়েছিলেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 84,
+          "arabic": "أَتَى",
+          "spelling": "Atā",
+          "correct_meaning": "He came (তিনি এসেছিলেন)",
+          "options": [
+            "He went (গিয়েছিলেন)",
+            "He stayed (থেকেছিলেন)",
+            "He left (ত্যাগ করেছিলেন)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 85,
+          "arabic": "شَآءَ",
+          "spelling": "Shā'a",
+          "correct_meaning": "He wished (ইচ্ছে পোষণ করেছিলেন)",
+          "options": [
+            "He commanded (নির্দেশ)",
+            "He created (সৃষ্টি)",
+            "He loved (ভালবাসা)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 18,
+      "day": "Day 86-90",
+      "title": "Actions 18",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 86,
+          "arabic": "خَلَقَ",
+          "spelling": "Khalaqa",
+          "correct_meaning": "He created (তিনি তৈরী করেছেন)",
+          "options": [
+            "He destroyed (ধ্বংস)",
+            "He made (তৈরী)",
+            "He built (নির্মাণ)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 87,
+          "arabic": "أَنزَلَ",
+          "spelling": "Anzala",
+          "correct_meaning": "He sent down (তিনি প্রেরণ করলেন)",
+          "options": [
+            "He sent up (উপরে পাঠানো)",
+            "He made (তৈরী)",
+            "He created (সৃষ্টি)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 88,
+          "arabic": "كَذَّبَ",
+          "spelling": "Kadhdhaba",
+          "correct_meaning": "He denied (মিথ্যে বলা, অস্বীকার করা)",
+          "options": [
+            "He told the truth (সত্য)",
+            "He confirmed (নিশ্চিত)",
+            "He believed (বিশ্বাস)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 89,
+          "arabic": "دَعَا",
+          "spelling": "Daʿā",
+          "correct_meaning": "He invoked (প্রার্থনা করা অর্থে)",
+          "options": [
+            "He commanded (নির্দেশ)",
+            "He forbade (নিষেধ)",
+            "He answered (উত্তর)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 90,
+          "arabic": "ٱتَّقَى",
+          "spelling": "Attaqā",
+          "correct_meaning": "He feared (ভয়)",
+          "options": [
+            "He loved (ভালবাসা)",
+            "He believed (বিশ্বাস)",
+            "He disobeyed (অবাধ্য)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 19,
+      "day": "Day 91-95",
+      "title": "Pronouns 19",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 91,
+          "arabic": "هَدَى",
+          "spelling": "Hadā",
+          "correct_meaning": "He guided (পরিচালিত করলেন)",
+          "options": [
+            "He misled (বিপথে চালিত)",
+            "He punished (শাস্তি)",
+            "He helped (সাহায্য)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 92,
+          "arabic": "هُوَ",
+          "spelling": "Huwa",
+          "correct_meaning": "He (তিনি, সে)",
+          "options": [
+            "I (আমি)",
+            "You (তুমি)",
+            "They (তারা)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 93,
+          "arabic": "هُمَا",
+          "spelling": "Humā",
+          "correct_meaning": "They both (উভয়েই)",
+          "options": [
+            "We (আমরা)",
+            "You both (তোমরা উভয়েই)",
+            "They (তারা)"
+          ],
+          "gender": "Male/Female, Dual",
+          "source": "curated-100"
+        },
+        {
+          "id": 94,
+          "arabic": "هُمْ",
+          "spelling": "Hum",
+          "correct_meaning": "They (তারা)",
+          "options": [
+            "We (আমরা)",
+            "You (তোমরা)",
+            "He (তিনি)"
+          ],
+          "gender": "Male, Plural",
+          "source": "curated-100"
+        },
+        {
+          "id": 95,
+          "arabic": "هِيَ",
+          "spelling": "Hiya",
+          "correct_meaning": "She (সে)",
+          "options": [
+            "He (তিনি)",
+            "You (তুমি)",
+            "I (আমি)"
+          ],
+          "gender": "Female, Singular",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 20,
+      "day": "Day 96-100",
+      "title": "Pronouns 20",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 96,
+          "arabic": "هُنَّ",
+          "spelling": "Hunna",
+          "correct_meaning": "They (তারা)",
+          "options": [
+            "We (আমরা)",
+            "You (তোমরা)",
+            "He (তিনি)"
+          ],
+          "gender": "Female, Plural",
+          "source": "curated-100"
+        },
+        {
+          "id": 97,
+          "arabic": "أَنْتَ",
+          "spelling": "Anta",
+          "correct_meaning": "You (তুমি)",
+          "options": [
+            "He (সে)",
+            "I (আমি)",
+            "We (আমরা)"
+          ],
+          "gender": "Male, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 98,
+          "arabic": "أَنْتُمَا",
+          "spelling": "Antumā",
+          "correct_meaning": "You both (তোমরা উভয়েই)",
+          "options": [
+            "I (আমি)",
+            "They both (তারা উভয়)",
+            "We (আমরা)"
+          ],
+          "gender": "Male/Female, Dual",
+          "source": "curated-100"
+        },
+        {
+          "id": 99,
+          "arabic": "أَنَا",
+          "spelling": "Anā",
+          "correct_meaning": "I (আমি)",
+          "options": [
+            "We (আমরা)",
+            "You (তুমি)",
+            "He (সে)"
+          ],
+          "gender": "Male/Female, Singular",
+          "source": "curated-100"
+        },
+        {
+          "id": 100,
+          "arabic": "نَحْنُ",
+          "spelling": "Naḥnu",
+          "correct_meaning": "We (আমরা)",
+          "options": [
+            "I (আমি)",
+            "They (তারা)",
+            "You (তোমরা)"
+          ],
+          "gender": "Male/Female, Plural",
+          "source": "curated-100"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 21,
+      "day": "Day 101-105",
+      "title": "Quranic Essentials 21",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 101,
+          "arabic": "السلام عليكم",
+          "spelling": "As-salamu alaykum",
+          "correct_meaning": "Peace be upon you (আপনার উপর শান্তি বর্ষিত হোক)",
+          "options": [
+            "He knew (তিনি জানতেন)",
+            "Not (মোটেই নয়)",
+            "Sky (আকাশ)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 102,
+          "arabic": "وعليكم السلام",
+          "spelling": "Wa alaykum as-salam",
+          "correct_meaning": "And peace be upon you (এবং আপনার উপরও শান্তি বর্ষিত হোক)",
+          "options": [
+            "Some (কেহ, কিছু)",
+            "Better (উত্তম, শ্রেষ্ঠ)",
+            "He did (করেছিলেন)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 103,
+          "arabic": "مرحبا",
+          "spelling": "Marhaba",
+          "correct_meaning": "Hello (হ্যালো)",
+          "options": [
+            "Which (যেটি, যেগুলো)",
+            "I (আমি)",
+            "Near (নিকটবর্তী, প্রায়)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 104,
+          "arabic": "أهلا وسهلا",
+          "spelling": "Ahlan wa sahlan",
+          "correct_meaning": "Welcome (স্বাগতম)",
+          "options": [
+            "Believer (বিশ্বাসী)",
+            "How much (কতোটুকু)",
+            "Allah (আল্লাহ)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 105,
+          "arabic": "صباح الخير",
+          "spelling": "Sabah al-khair",
+          "correct_meaning": "Good morning (সুপ্রভাত)",
+          "options": [
+            "Those who (তোমরা যারা)",
+            "And peace be upon you (এবং আপনার উপরও শান্তি বর্ষিত হোক)",
+            "Some (কেহ, কিছু)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 22,
+      "day": "Day 106-110",
+      "title": "Quranic Essentials 22",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 106,
+          "arabic": "مساء الخير",
+          "spelling": "Masa al-khair",
+          "correct_meaning": "Good evening (সুন্দর সন্ধ্যা)",
+          "options": [
+            "Above (উপর)",
+            "Praise be to Allah (আল্লাহর প্রশংসা)",
+            "With (সাথে)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 107,
+          "arabic": "ليلة سعيدة",
+          "spelling": "Layla saeeda",
+          "correct_meaning": "Good night (শুভ রাত্রি)",
+          "options": [
+            "He (তিনি, সে)",
+            "Some (কেহ, কিছু)",
+            "Family (দল, পরিবার)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 108,
+          "arabic": "مع السلامة",
+          "spelling": "Ma as-salamah",
+          "correct_meaning": "Goodbye (বিদায়)",
+          "options": [
+            "Heart (অন্তর)",
+            "He knew (তিনি জানতেন)",
+            "Slave (গোলাম)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 109,
+          "arabic": "إلى اللقاء",
+          "spelling": "Ila al-liqaa",
+          "correct_meaning": "See you later (পরে দেখা হবে)",
+          "options": [
+            "Some (কেহ, কিছু)",
+            "He sent down (তিনি প্রেরণ করলেন)",
+            "He disbelieved (অবিশ্বাস করেছিলো)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 110,
+          "arabic": "كيف حالك",
+          "spelling": "Kaifa haluk",
+          "correct_meaning": "How are you (আপনার কেমন আছেন)",
+          "options": [
+            "Good evening (সুন্দর সন্ধ্যা)",
+            "He wished (ইচ্ছে পোষণ করেছিলেন)",
+            "Between (মধ্যবর্তী স্থানে)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 23,
+      "day": "Day 111-115",
+      "title": "Review & Recall 23",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 111,
+          "arabic": "الحمد لله",
+          "spelling": "Alhamdulillah",
+          "correct_meaning": "Praise be to Allah (আল্লাহর প্রশংসা)",
+          "options": [
+            "She (সে)",
+            "Thank you (ধন্যবাদ)",
+            "Nay (বস্তুত)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 112,
+          "arabic": "إن شاء الله",
+          "spelling": "Insha Allah",
+          "correct_meaning": "If Allah wills (যদি আল্লাহ চান)",
+          "options": [
+            "Please (অনুগ্রহ করে)",
+            "Messenger (দূত)",
+            "Way (পথ, উপায়)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 113,
+          "arabic": "ماشاء الله",
+          "spelling": "Masha Allah",
+          "correct_meaning": "What Allah has willed (আল্লাহ যা চেয়েছেন)",
+          "options": [
+            "Thing (জিনিস, ঘটনা)",
+            "Right (ন্যায়, ঠিক, সত্য)",
+            "He was (He was)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 114,
+          "arabic": "بارك الله فيك",
+          "spelling": "Barak Allahu fik",
+          "correct_meaning": "May Allah bless you (আল্লাহ আপনাকে বরকত দিন)",
+          "options": [
+            "No (না)",
+            "Fire (আগুন)",
+            "With (সাথে)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 115,
+          "arabic": "جزاك الله خيرا",
+          "spelling": "Jazak Allahu khairan",
+          "correct_meaning": "May Allah reward you with good (আল্লাহ আপনাকে উত্তম পুরস্কার দিন)",
+          "options": [
+            "Right (ন্যায়, ঠিক, সত্য)",
+            "Messenger (দূত)",
+            "Way (পথ, উপায়)"
+          ],
+          "gender": "greetings",
+          "source": "extended-quran-words"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 24,
+      "day": "Day 116-120",
+      "title": "Review & Recall 24",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 116,
+          "arabic": "شكرا",
+          "spelling": "Shukran",
+          "correct_meaning": "Thank you (ধন্যবাদ)",
+          "options": [
+            "He knew (তিনি জানতেন)",
+            "Who/That (যে)",
+            "From (হতে, থেকে)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 117,
+          "arabic": "عفوا",
+          "spelling": "Afwan",
+          "correct_meaning": "You're welcome (স্বাগতম)",
+          "options": [
+            "This (এটা)",
+            "Excuse me (মাফ করবেন)",
+            "He came (তিনি এসেছিলেন)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 118,
+          "arabic": "ربما",
+          "spelling": "Rubama",
+          "correct_meaning": "Maybe (হয়তো)",
+          "options": [
+            "May Allah reward you with good (আল্লাহ আপনাকে উত্তম পুরস্কার দিন)",
+            "Not (মোটেই নয়)",
+            "Please (অনুগ্রহ করে)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 119,
+          "arabic": "أعتذر",
+          "spelling": "A'tadhir",
+          "correct_meaning": "I apologize (আমি ক্ষমা চাইছি)",
+          "options": [
+            "What Allah has willed (আল্লাহ যা চেয়েছেন)",
+            "After (পরে, পরবর্তী কালে)",
+            "You're welcome (স্বাগতম)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 120,
+          "arabic": "عذراً",
+          "spelling": "Udhrun",
+          "correct_meaning": "Excuse me (মাফ করবেন)",
+          "options": [
+            "Truth (সত্য)",
+            "No (না)",
+            "How (কেমন, কিভাবে)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        }
+      ],
+      "word_count": 5
+    },
+    {
+      "id": 25,
+      "day": "Day 121-125",
+      "title": "Building Fluency 25",
+      "description": "Learn five high-frequency Quranic words",
+      "words": [
+        {
+          "id": 121,
+          "arabic": "من فضلك",
+          "spelling": "Min fadlik",
+          "correct_meaning": "Please (অনুগ্রহ করে)",
+          "options": [
+            "No (না)",
+            "These (এইসকল)",
+            "Sign/Verse (চিহ্ন/আয়াত)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 122,
+          "arabic": "أهلا",
+          "spelling": "Ahlan",
+          "correct_meaning": "Welcome (স্বাগতম)",
+          "options": [
+            "Hello (হ্যালো)",
+            "You're welcome (স্বাগতম)",
+            "You both (তোমরা উভয়েই)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 123,
+          "arabic": "أهلا بك",
+          "spelling": "Ahlan bika",
+          "correct_meaning": "Welcome to you (আপনাকে স্বাগতম)",
+          "options": [
+            "He came (He came)",
+            "He feared (ভয়)",
+            "Good night (শুভ রাত্রি)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 124,
+          "arabic": "أهلا وسهلا بك",
+          "spelling": "Ahlan wa sahlan bika",
+          "correct_meaning": "Welcome to you (আপনাকে স্বাগতম)",
+          "options": [
+            "Allah (আল্লাহ)",
+            "For (জন্য)",
+            "Not (মোটেই নয়)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        },
+        {
+          "id": 125,
+          "arabic": "أهلا وسهلا بكم",
+          "spelling": "Ahlan wa sahlan bikum",
+          "correct_meaning": "Welcome to you all (আপনাদের সবাইকে স্বাগতম)",
+          "options": [
+            "Lord (রব)",
+            "Excuse me (মাফ করবেন)",
+            "Not (মোটেই নয়)"
+          ],
+          "gender": "common_phrases",
+          "source": "extended-quran-words"
+        }
+      ],
+      "word_count": 5
+    }
+  ]
+}

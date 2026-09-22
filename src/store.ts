@@ -1,6 +1,7 @@
 import { configureStore, createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { syncProgress } from './lib/progressSync';
 
-interface ProgressState {
+export interface ProgressState {
   xp: number;
   streak: number;
   hearts: number;
@@ -38,6 +39,10 @@ const progressSlice = createSlice({
 
 export const { answerQuestion, completeLesson, restoreHearts } = progressSlice.actions;
 export const store = configureStore({ reducer: { progress: progressSlice.reducer } });
-store.subscribe(() => localStorage.setItem('mafhum-progress', JSON.stringify(store.getState().progress)));
+store.subscribe(() => {
+  const progress = store.getState().progress;
+  localStorage.setItem('mafhum-progress', JSON.stringify(progress));
+  void syncProgress(progress);
+});
 export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;

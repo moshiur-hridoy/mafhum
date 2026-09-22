@@ -19,13 +19,14 @@ npm run dev
 1. Supabase-এ নতুন project তৈরি করুন।
 2. `.env.local`-এ `VITE_SUPABASE_URL` এবং `VITE_SUPABASE_ANON_KEY` বসান।
 3. Supabase SQL Editor-এ [`supabase/schema.sql`](supabase/schema.sql) রান করুন।
-4. পরের ধাপে auth ও progress sync client-এ connect করা হবে।
+4. একই editor-এ [`supabase/seed.sql`](supabase/seed.sql) রান করুন—এতে ২৫ lesson এবং ১২৫টি word insert হবে।
+5. Signed-in user থাকলে app progress Supabase-এ sync করার জন্য প্রস্তুত।
 
 ## Product foundation
 
 - React + TypeScript + Vite
 - Redux Toolkit for learning state
-- Supabase client and RLS-ready schema
+- Supabase client, ১২৫-word seed এবং RLS-ready schema
 - Local-first progress fallback
 - Responsive premium dashboard
 - Lesson path, XP, streak, hearts, daily goal
@@ -34,7 +35,7 @@ npm run dev
 ## Next build slices
 
 1. Supabase Auth এবং cross-device progress sync
-2. Full ১২৫-word canonical curriculum import
+2. Auth UI এবং first-time user onboarding
 3. Review queue এবং spaced repetition
 4. Multiple exercise types, audio এবং verse context
 5. Achievements, leaderboard এবং analytics

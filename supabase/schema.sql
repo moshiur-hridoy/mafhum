@@ -16,6 +16,9 @@ create table if not exists public.words (
   transliteration text not null,
   meaning text not null,
   bengali_meaning text not null,
+  options text[] not null default '{}',
+  gender text,
+  source text,
   created_at timestamptz not null default now()
 );
 
@@ -49,6 +52,15 @@ alter table public.words enable row level security;
 alter table public.lessons enable row level security;
 alter table public.lesson_words enable row level security;
 alter table public.user_progress enable row level security;
+
+drop policy if exists "Public can read curriculum" on public.words;
+drop policy if exists "Public can read lessons" on public.lessons;
+drop policy if exists "Public can read lesson words" on public.lesson_words;
+drop policy if exists "Users can read own profile" on public.profiles;
+drop policy if exists "Users can update own profile" on public.profiles;
+drop policy if exists "Users can read own progress" on public.user_progress;
+drop policy if exists "Users can create own progress" on public.user_progress;
+drop policy if exists "Users can update own progress" on public.user_progress;
 
 create policy "Public can read curriculum" on public.words for select using (true);
 create policy "Public can read lessons" on public.lessons for select using (true);

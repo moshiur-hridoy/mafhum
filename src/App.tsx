@@ -1,8 +1,9 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { BookOpen, ChevronRight, Flame, Heart, Lock, Menu, Play, Sparkles, Trophy, X } from 'lucide-react';
 import { useAppDispatch, useAppSelector } from './hooks';
 import { answerQuestion, completeLesson, restoreHearts } from './store';
-import { lessons } from './data/course';
+import { lessons as localLessons } from './data/course';
+import { loadLessons } from './lib/curriculum';
 import type { Lesson } from './types';
 
 type View = 'home' | 'practice' | 'complete';
@@ -10,12 +11,17 @@ type View = 'home' | 'practice' | 'complete';
 function App() {
   const dispatch = useAppDispatch();
   const progress = useAppSelector((state) => state.progress);
+  const [courseLessons, setCourseLessons] = useState(localLessons);
   const [view, setView] = useState<View>('home');
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
   const [wordIndex, setWordIndex] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [menuOpen, setMenuOpen] = useState(false);
+
+  useEffect(() => { loadLessons().then(setCourseLessons); }, []);
+
+  const lessons = courseLessons;
 
   const currentWord = activeLesson?.words[wordIndex];
   const options = useMemo(() => {
